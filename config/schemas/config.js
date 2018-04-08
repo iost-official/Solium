@@ -76,7 +76,8 @@ let Schema = {
             type: "object",
             properties: {
                 autofix: { type: "boolean" },
-                returnInternalIssues: { type: "boolean" }
+                returnInternalIssues: { type: "boolean" },
+                debug: { type: "boolean" }
             },
             additionalProperties: false
         }
