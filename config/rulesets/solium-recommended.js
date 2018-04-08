@@ -13,7 +13,8 @@ module.exports = {
         "array-declarations": "error",
         "no-unused-vars": "error",
         "quotes": "error",
-
+        "value-in-payable": "error",
+        
         "no-empty-blocks": "warning",
         "indentation": "warning",
         "whitespace": "warning",
